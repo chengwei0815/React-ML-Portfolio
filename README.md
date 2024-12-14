@@ -70,4 +70,5 @@ npm run preview
 ## Deply publicly
 
 1. Go to Netlify: https://www.netlify.com/
-2. 
+2. Deploy using github
+3. Push to github after edit
