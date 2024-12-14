@@ -1,0 +1,26 @@
+[
+  {
+    "title": "SONAR Rock vs Mine Prediction",
+    "imageSrc": "projects/project1.png",
+    "description": "This is a project made to use Logistic Regression to predict whether Rock or Mine.",
+    "skills": ["Python", "Machine Learning", "Logistic Regression"],
+    "demo": "https://github.com/chengwei0815/Rock_vs_Mine_Prediction/blob/main/Rock_vs_Mine_Prediction.ipynb",
+    "source": "https://github.com/chengwei0815/Rock_vs_Mine_Prediction/tree/main"
+  },
+  {
+    "title": "Diabetes Prediction",
+    "imageSrc": "projects/project2.png",
+    "description": "This is a project made to predict whether a person has diabetes or not .",
+    "skills": ["Python", "Machine Learning", "Support Vector Machine (SVM)"],
+    "demo": "https://github.com/chengwei0815/Diabetes-Prediction/blob/main/Project_3_Diabetes_Prediction.ipynb",
+    "source": "https://github.com/chengwei0815/Diabetes-Prediction/tree/main"
+  },
+  {
+    "title": "House Price Prediction",
+    "imageSrc": "projects/project3.png",
+    "description": "This is a project made to build a House price prediction system.",
+    "skills": ["Python", "Machine Learning", "XGBoost Regressor"],
+    "demo": "https://github.com/chengwei0815/House-Price-Prediction/blob/main/Project_4_House_Price_Prediction.ipynb",
+    "source": "https://github.com/chengwei0815/House-Price-Prediction/blob/main/Project_4_House_Price_Prediction.ipynb"
+  }
+]

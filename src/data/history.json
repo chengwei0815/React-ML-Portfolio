@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Data Science Consultant",
+    "organisation": "Beam Data",
+    "startDate": "Oct, 2023",
+    "endDate": "Present",
+    "experiences": ["Job market trends project", "Increased accuracy results by 50%", "Automated LLM in Docker Airflow"],
+    "imageSrc": "history/beam.png"
+  },
+  {
+    "role": "Digital Intelligence",
+    "organisation": "PwC",
+    "startDate": "Aug, 2024",
+    "endDate": "Oct, 2024",
+    "experiences": ["Data analysis and modeling", "Built Python classification models", "Analyzed feature importance", "Forecasted cash flows", "Determined portfolio present value"],
+    "imageSrc": "history/pwc.png"
+  },
+  {
+    "role": "Data Analyst",
+    "organisation": "Accenture",
+    "startDate": "Apr, 2024",
+    "endDate": "Jun, 2024",
+    "experiences": [
+      "Data Analytics and Visualization",
+      "Cleaned, modelled and analyzed 7 datasets"
+    ],
+    "imageSrc": "history/accenture.png"
+  }
+]
