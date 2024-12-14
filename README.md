@@ -54,3 +54,20 @@ Optional: Check Commit Logs
 To verify your commit history, use the following command:
 
   git log
+
+---
+
+# Deployment - Netlify
+
+## Check website locally
+
+website: [wei-cheng-portfolio.](https://wei-cheng-portfolio.netlify.app/)
+
+npm run build  
+
+npm run preview    
+
+## Deply publicly
+
+1. Go to Netlify: https://www.netlify.com/
+2. 
